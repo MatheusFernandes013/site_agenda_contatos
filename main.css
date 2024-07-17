@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
 }
 
 body {
@@ -75,19 +76,4 @@ table td {
     text-align: center;
     font-size: 18px;
     border-bottom: 2px solid rgba(0, 0, 0, 0.1);
-}
-
-.error-message {
-    background-color: red;
-    color: #fff;
-    margin-bottom: 8px;
-    display: none;
-    font-size: 12px;
-    padding: 8px;
-}
-
-input.error {
-    color: red;
-    border-color: red;
-    outline-color: red; 
 }
